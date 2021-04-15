@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://admin-hitesh:hitesh200@cluster0.jysgq.mongodb.net/qustionandansclone?retryWrites=true&w=majority",
+    "jwtSecret":"somethingsecrethere"
+}
